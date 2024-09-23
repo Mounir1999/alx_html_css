@@ -1,5 +1,4 @@
 
-=======
 SmileSchool
 
 Welcome to SmileSchool, a vibrant learning platform crafted to inspire growth and spark curiosity. Offering engaging courses and tutorials, SmileSchool empowers students to explore new skills with ease. Designed with a sleek, modern touch through HTML and CSS, this project embodies simplicity and accessibility, making the journey to knowledge both seamless and enjoyable.
